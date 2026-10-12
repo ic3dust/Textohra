@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/proj/Kariera/out/build/x64-debug/cmake_install.cmake",
+		"D:/proj/Kariera/out/build/x64-debug/Kariera/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
