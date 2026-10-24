@@ -22,7 +22,7 @@
 		"files" : 
 		[
 			"Kariera/CMakeLists.txt",
-			"C:/Program Files/Microsoft Visual Studio/18/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/cmake/Microsoft/SegmentHeap.cmake",
+			"C:/Program Files/Microsoft Visual Studio/18/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/cmake/Microsoft/SegmentHeap.cmake",
 			"CMakeLists.txt"
 		],
 		"nodes" : 
@@ -170,7 +170,7 @@
 		{
 			"backtrace" : 7,
 			"isGenerated" : true,
-			"path" : "C:/Program Files/Microsoft Visual Studio/18/Professional/VC/Tools/MSVC/14.51.36231/include/manifest/segmentheap.manifest",
+			"path" : "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/manifest/segmentheap.manifest",
 			"sourceGroupIndex" : 2
 		}
 	],

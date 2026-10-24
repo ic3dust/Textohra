@@ -1,0 +1,29 @@
+1) Node concept - Node structure; Node -> Type, Choice; Choice -> AnswerType, Endpoint, tracks iq score;
+2) Even/Uneven answers identifying (pseudo vectors) - Endpoint structure; Link: [/Kariera.cpp/65]
+3) IQ tracker;
+4) Explicit choices {} values definition inside; Link: [/Kariera.cpp/38]
+5) Formula to count the iq incremented/decremented for each question. Reasons: questions quantity, number of :
+	Exam questions ();
+	Simple questions ();
+	Questions in general (N);
+
+6) story matrix visualizer function at the end;
+
+WRONG		CORRECT			OTHER
+{1, 0}		{2, 0}			{3, 0}
+{1, 1}		{2, 1}			. ...
+{1, 2}		{2, 2}			{3, N}
+  ...		  ...
+{1, N}		{2, N}
+
+N - počet otázek 
+
+
+
+
+COPYPASTA 
+.player_choice = 
+.answer_type = 
+.endpoint = 
+.choice_reaction = 
+.iq_score = DEFAULT_IQ 
