@@ -11,8 +11,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kariera\\Kariera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\presentation_notex.txt.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kariera\\presentation_notex.txt.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\presentation_notes.txt.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kariera\\presentation_notes.txt.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "presentation_notex.txt.txt",
-              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\presentation_notex.txt.txt",
-              "RelativeDocumentMoniker": "Kariera\\presentation_notex.txt.txt",
-              "ToolTip": "D:\\proj\\Kariera\\Kariera\\presentation_notex.txt.txt",
-              "RelativeToolTip": "Kariera\\presentation_notex.txt.txt",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Title": "presentation_notes.txt.txt",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\presentation_notes.txt.txt",
+              "RelativeDocumentMoniker": "Kariera\\presentation_notes.txt.txt",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\presentation_notes.txt.txt",
+              "RelativeToolTip": "Kariera\\presentation_notes.txt.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-10-24T11:35:16.514Z",
+              "WhenOpened": "2026-10-28T09:21:26.851Z",
               "EditorCaption": ""
             },
             {
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Kariera\\Kariera.cpp",
               "ToolTip": "D:\\proj\\Kariera\\Kariera\\Kariera.cpp",
               "RelativeToolTip": "Kariera\\Kariera.cpp",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAqwJEAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAHMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-24T10:00:09.125Z",
               "EditorCaption": ""
