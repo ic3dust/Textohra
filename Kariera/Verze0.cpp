@@ -112,11 +112,11 @@ Node story[] = {
 	}
 };
 
-void printQuestion(Node node) {
-	const char* color =
-		(node.type == TXT) ? WHI :
-		(node.type == YESNO) ? GR :
-		(node.type == OPT || node.type == EXAM) ? CYA :
-		WHI;
-	printf(" % s % s % s\n", color, node.text, WHI);
-}
+// void printQuestion(Node node) {
+//     const char* color =
+//         (node.type == TXT) ? WHI :
+//             (node.type == YESNO) ? GR :
+//             (node.type == OPT || node.type == EXAM) ? CYA :
+//             WHI;
+//     printf(" % s % s % s\n", color, node.text, WHI);
+// }

@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dominik/Dokumenty/GIT/Textohra/build/Desktop_Debug/cmake_install.cmake",
+		"/home/dominik/Dokumenty/GIT/Textohra/build/Desktop_Debug/Kariera/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

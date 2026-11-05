@@ -2,31 +2,34 @@
 //
 
 #include "Kariera.h"
+#include "Otazky_1.h"
+
 
 using namespace std;
 
 int main()
 {
 
-	/*int vek = 1;
+    int vek = 1;
 
 	
-	UNIVERZITA
-	while (vek != 10) {
-		random(otazka()); //  vracet iq + spravna/ne? 
+
+    while (vek < 10)
+    {
+         //  vracet iq + spravna/ne?
 		vek++;
 	}
+    otazka(vek);
+    otazka(vek);
+    // PRCACE
+    // if (vek >=10){
+    // 	while (vek != 80){
 
-	PRCACE
-	if (vek >=10){
-		while (vek != 80){
-			//neco//
-			vek ++;
-		}
-	}
-	printIq();
 
-	*/
+    // 		//neco//
+    // 		vek ++;
+    // 	}
+    // }
 
 	return 0;
 

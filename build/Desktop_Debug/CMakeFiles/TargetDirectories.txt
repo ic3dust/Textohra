@@ -1,0 +1,5 @@
+/home/dominik/Dokumenty/GIT/Textohra/build/Desktop_Debug/CMakeFiles/edit_cache.dir
+/home/dominik/Dokumenty/GIT/Textohra/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
+/home/dominik/Dokumenty/GIT/Textohra/build/Desktop_Debug/Kariera/CMakeFiles/Kariera.dir
+/home/dominik/Dokumenty/GIT/Textohra/build/Desktop_Debug/Kariera/CMakeFiles/edit_cache.dir
+/home/dominik/Dokumenty/GIT/Textohra/build/Desktop_Debug/Kariera/CMakeFiles/rebuild_cache.dir

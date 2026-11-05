@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/dominik/Dokumenty/GIT/Textohra/build",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -o Kariera/CMakeFiles/Kariera.dir/Kariera.cpp.o -c /home/dominik/Dokumenty/GIT/Textohra/Kariera/Kariera.cpp",
+  "file": "/home/dominik/Dokumenty/GIT/Textohra/Kariera/Kariera.cpp",
+  "output": "/home/dominik/Dokumenty/GIT/Textohra/build/Kariera/CMakeFiles/Kariera.dir/Kariera.cpp.o"
+},
+{
+  "directory": "/home/dominik/Dokumenty/GIT/Textohra/build",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -o Kariera/CMakeFiles/Kariera.dir/Verze0.cpp.o -c /home/dominik/Dokumenty/GIT/Textohra/Kariera/Verze0.cpp",
+  "file": "/home/dominik/Dokumenty/GIT/Textohra/Kariera/Verze0.cpp",
+  "output": "/home/dominik/Dokumenty/GIT/Textohra/build/Kariera/CMakeFiles/Kariera.dir/Verze0.cpp.o"
+}
+]
