@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int rand_range(int min, int max) {
-    return rand() % (max - min + 1) + min;
-}
+#include "Random.h"
 
 int otazka(int vek )
 {
@@ -30,9 +27,9 @@ int otazka(int vek )
 }
 
 
-int prvocisla (){
-    int x= rand_range(0,10);
+//int prvocisla (){
+    //int x= rand_range(0,10);
 
 
 
-}
+//}

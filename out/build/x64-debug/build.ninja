@@ -86,7 +86,34 @@ build Kariera\CMakeFiles\Kariera.dir\Kariera.cpp.obj: CXX_COMPILER__Kariera_unsc
   TARGET_PDB = Kariera\Kariera.pdb
   TARGET_SUPPORT_DIR = Kariera\CMakeFiles\Kariera.dir
 
-build Kariera\CMakeFiles\Kariera.dir\Verze0.cpp.obj: CXX_COMPILER__Kariera_unscanned_Debug D$:\proj\Kariera\Kariera\Verze0.cpp || cmake_object_order_depends_target_Kariera
+build Kariera\CMakeFiles\Kariera.dir\Otazky_1.cpp.obj: CXX_COMPILER__Kariera_unscanned_Debug D$:\proj\Kariera\Kariera\Otazky_1.cpp || cmake_object_order_depends_target_Kariera
+  CONFIG = Debug
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = Kariera\CMakeFiles\Kariera.dir
+  OBJECT_FILE_DIR = Kariera\CMakeFiles\Kariera.dir
+  TARGET_COMPILE_PDB = Kariera\CMakeFiles\Kariera.dir\
+  TARGET_PDB = Kariera\Kariera.pdb
+  TARGET_SUPPORT_DIR = Kariera\CMakeFiles\Kariera.dir
+
+build Kariera\CMakeFiles\Kariera.dir\Random.cpp.obj: CXX_COMPILER__Kariera_unscanned_Debug D$:\proj\Kariera\Kariera\Random.cpp || cmake_object_order_depends_target_Kariera
+  CONFIG = Debug
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = Kariera\CMakeFiles\Kariera.dir
+  OBJECT_FILE_DIR = Kariera\CMakeFiles\Kariera.dir
+  TARGET_COMPILE_PDB = Kariera\CMakeFiles\Kariera.dir\
+  TARGET_PDB = Kariera\Kariera.pdb
+  TARGET_SUPPORT_DIR = Kariera\CMakeFiles\Kariera.dir
+
+build Kariera\CMakeFiles\Kariera.dir\Textove_funkce.cpp.obj: CXX_COMPILER__Kariera_unscanned_Debug D$:\proj\Kariera\Kariera\Textove_funkce.cpp || cmake_object_order_depends_target_Kariera
+  CONFIG = Debug
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
+  OBJECT_DIR = Kariera\CMakeFiles\Kariera.dir
+  OBJECT_FILE_DIR = Kariera\CMakeFiles\Kariera.dir
+  TARGET_COMPILE_PDB = Kariera\CMakeFiles\Kariera.dir\
+  TARGET_PDB = Kariera\Kariera.pdb
+  TARGET_SUPPORT_DIR = Kariera\CMakeFiles\Kariera.dir
+
+build Kariera\CMakeFiles\Kariera.dir\Etapa_1.cpp.obj: CXX_COMPILER__Kariera_unscanned_Debug D$:\proj\Kariera\Kariera\Etapa_1.cpp || cmake_object_order_depends_target_Kariera
   CONFIG = Debug
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -std:c++20 -ZI
   OBJECT_DIR = Kariera\CMakeFiles\Kariera.dir
@@ -103,7 +130,7 @@ build Kariera\CMakeFiles\Kariera.dir\Verze0.cpp.obj: CXX_COMPILER__Kariera_unsca
 #############################################
 # Link the executable Kariera\Kariera.exe
 
-build Kariera\Kariera.exe: CXX_EXECUTABLE_LINKER__Kariera_Debug Kariera\CMakeFiles\Kariera.dir\Kariera.cpp.obj Kariera\CMakeFiles\Kariera.dir\Verze0.cpp.obj | C$:\Program$ Files\Microsoft$ Visual$ Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\manifest\segmentheap.manifest
+build Kariera\Kariera.exe: CXX_EXECUTABLE_LINKER__Kariera_Debug Kariera\CMakeFiles\Kariera.dir\Kariera.cpp.obj Kariera\CMakeFiles\Kariera.dir\Otazky_1.cpp.obj Kariera\CMakeFiles\Kariera.dir\Random.cpp.obj Kariera\CMakeFiles\Kariera.dir\Textove_funkce.cpp.obj Kariera\CMakeFiles\Kariera.dir\Etapa_1.cpp.obj | C$:\Program$ Files\Microsoft$ Visual$ Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\manifest\segmentheap.manifest
   CONFIG = Debug
   FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Ob0 /Od /RTC1 -ZI
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console

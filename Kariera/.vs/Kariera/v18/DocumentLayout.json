@@ -7,8 +7,40 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Kariera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Etapa_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Etapa_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Etapa_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Etapa_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Otazky_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Otazky_1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Textove_funkce.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Textove_funkce.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Textove_funkce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Textove_funkce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Random.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\proj\\Kariera\\Kariera\\Otazky_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Otazky_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +50,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Struct.h",
-              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Struct.h",
-              "RelativeDocumentMoniker": "Struct.h",
-              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Struct.h",
-              "RelativeToolTip": "Struct.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Etapa_1.h",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Etapa_1.h",
+              "RelativeDocumentMoniker": "Etapa_1.h",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Etapa_1.h",
+              "RelativeToolTip": "Etapa_1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-09T19:51:32.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T20:16:07.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Etapa_1.cpp",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Etapa_1.cpp",
+              "RelativeDocumentMoniker": "Etapa_1.cpp",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Etapa_1.cpp",
+              "RelativeToolTip": "Etapa_1.cpp",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T20:15:56.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Textove_funkce.h",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Textove_funkce.h",
+              "RelativeDocumentMoniker": "Textove_funkce.h",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Textove_funkce.h",
+              "RelativeToolTip": "Textove_funkce.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-11T20:05:47.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Textove_funkce.cpp",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Textove_funkce.cpp",
+              "RelativeDocumentMoniker": "Textove_funkce.cpp",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Textove_funkce.cpp",
+              "RelativeToolTip": "Textove_funkce.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T20:05:35.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Otazky_1.h",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Otazky_1.h",
+              "RelativeDocumentMoniker": "Otazky_1.h",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Otazky_1.h",
+              "RelativeToolTip": "Otazky_1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-10T16:36:33.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Random.h",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Random.h",
+              "RelativeDocumentMoniker": "Random.h",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Random.h",
+              "RelativeToolTip": "Random.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-10T16:36:11.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Random.cpp",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Random.cpp",
+              "RelativeDocumentMoniker": "Random.cpp",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Random.cpp",
+              "RelativeToolTip": "Random.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-10T16:35:58.773Z"
             },
             {
               "$type": "Document",
@@ -41,10 +144,34 @@
               "RelativeDocumentMoniker": "Kariera.cpp",
               "ToolTip": "D:\\proj\\Kariera\\Kariera\\Kariera.cpp",
               "RelativeToolTip": "Kariera.cpp",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAiwFwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T19:04:19.94Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Otazky_1.cpp",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Otazky_1.cpp",
+              "RelativeDocumentMoniker": "Otazky_1.cpp",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Otazky_1.cpp",
+              "RelativeToolTip": "Otazky_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-10T16:35:39.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Struct.h",
+              "DocumentMoniker": "D:\\proj\\Kariera\\Kariera\\Struct.h",
+              "RelativeDocumentMoniker": "Struct.h",
+              "ToolTip": "D:\\proj\\Kariera\\Kariera\\Struct.h",
+              "RelativeToolTip": "Struct.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-09T19:51:32.632Z"
             }
           ]
         }

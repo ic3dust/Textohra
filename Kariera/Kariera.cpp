@@ -2,18 +2,21 @@
 //
 
 #include "Kariera.h"
-#include "Otazky_1.h"
-#include "Struct.h"
-#include <stdio.h>
+#include "Etapa_1.h"
 
 #include <time.h>	// rand()
-#include <stldib.h> // rand()
+#include <stdlib.h> // rand()
 
 using namespace std;
 
 int main()
 {
+	srand(time(NULL));//predat srand() time bez ulozeni do promenne = NULL; seed - time
+	vlastnost_postavy();
+	vzhled_postavy();
+	obor_postavy();
 
+	/*
 	// ETAPA JMENA A POSTAVY
 	struct postava postava;
 	int vlastnost;
@@ -25,7 +28,6 @@ int main()
 	printf("Jste spise moudry (1), aktivni (2) anebo drzy (3) hrac? -> ");
 	scanf_s("%d\n", &vlastnost);
 
-	int chyba = 0;
 	switch (vlastnost) {
 	case 1:
 		postava.vlastnost = moudry;
@@ -41,7 +43,6 @@ int main()
 		break;
 	default:
 		printf("Hra narazila na chybu na etape vyberu vlastnosti postavy. Overte hodnotu a spustte hru znovu.\n");
-		chyba = 1; //potom v main if(chyba=1) return 1 a ukonci chybove vytvoreni postavy bezpecne;
 		break;
 
 	}
@@ -73,48 +74,29 @@ int main()
 		break;
 	default:
 		printf("Neco se nepodarilo u volby ucesu. Zkontrolujte hodnoty a spustte hru znovu.\n");
-		chyba = 1; //potom v main if(chyba=1) return 1 a ukonci chybove vytvoreni postavy bezpecne;
 		break;
 	}
 
-	// OPRAVA TISKU TEXTOVE HODNOTY ZE STRUKT + CHYBA V ZANORENEM CYKLU + PRIDEJ BARVY 
-	// 
-	// const char* vlastnostToText(enum vlastnost v) {
-	//switch (v) {
-	//case moudry:
-		//return "moudry";
-	//case aktivni:
-		//return "aktivni";
-	//case drzy:
-		//return "drzy";
-	//default:
-		//return "neznamy";
-	//}
-//}
-	// const char* vlastnost_text = vlastnostToText(postava.vlastnost); //predani textu (ukazuje na text)
-	// printf(vlastnost_text)
-	// NE 
-	//char[] vlastnost_text = vlastnostToText(); // protoze vlastnost.moudry da 1
-	//char[] vzhled_text = vzhledToText(); // protoze vzhled.plesaty da 1
-	// 
 
 	
+	char[] vlastnost_text = vlastnost_to_text(postava.vlastnost); // prevede cislo na vlastnost otextovanim
+	char[] vzhled_text = vzhled_to_text(postava.vzhled); // prevede cislo na vlastnost otextovanim
+	printf("Smeju se nahlas! ", vlastnost_text, vzhled_text, postava.jmeno" ? Fakt? \n No dobre, Vas obor si zvolime sami ... \n");
+	
+	
+	srand(time(NULL));//predat srand() time bez ulozeni do promenne = NULL; seed - time
+	int rand_obor = rand_range(1,3);
+	(enum obor)rand_obor;
+	postava.obor = rand_obor;
 
-	printf("Smeju se nahlas! ", vlastnost_text, vzhled_text, jmeno" ? Fakt? \n No dobre, Vas obor si zvolime sami ... \n");
+	char[] obor_text = obor_to_text(postava.obor); // prevede cislo na obor otextovanim
 
-	srand(time(NULL));//predat srand() time bez ulozeni do promenne = NULL
-	enum obor rand_obor = (enum obor)(rand() % 3 + 1) //time var %3 dava hodnoty [0,1,2], pricteme +1 = [1,2,3]
-													// pretypovani z int na enum obor pro ulozeni	
-	postava.obor = obor;
-
-	char[] obor_text = vzhledToText(); // protoze kryptograf.plesaty da 1
-
-	printf("Vas obor je ", obor_text, ", ", jmeno, "! \n");
+	printf("Vas obor je ", obor_text, ", ", postava.jmeno, "! \n");
 	printf("Prejeme ti nezapomenutelne dobrodruzstvi, " vlastnost_text, vzhled_text, obor_text, " !\n");
 
 
 	// DALSI ETAPA
-
+	*/
 	return 0;
     /*int vek = 1;
 
@@ -137,38 +119,4 @@ int main()
     // 	}
     // }*/
 
-	
-
-
-
-
-
-
-
-	/*
-	* 
-	* TEST VERZE 0
-	* 
-	printf("Empty choices node test " YEL "TXT " WHI "(id: 0)\n");
-	printQuestion(story[0]);
-	printf("[0]: %p\n", (void *)story[0].choices[0].player_choice);
-	printf("[1]: %p\n", (void*)story[0].choices[1].player_choice);
-	printf("[2]: %p\n", (void*)story[0].choices[2].player_choice);
-
-	printf("Empty neutral choice test " YEL "YESNO " WHI "(id: 1)\n");
-	printQuestion(story[1]);
-	printf("[0]: %p\n", (void*)story[1].choices[0].player_choice);
-	printf("[1]: %p\n", (void*)story[1].choices[1].player_choice);
-	printf("[2]: " RED "%p" WHI "\n", (void*)story[1].choices[2].player_choice);
-
-	printf("3 options question test " YEL "OPT, EXAM " WHI "(id: 2)\n");
-	printQuestion(story[2]);
-	printf("[0]: %p\n", (void*)story[2].choices[0].player_choice);
-	printf("[1]: %p\n", (void*)story[2].choices[1].player_choice);
-	printf("[2]: %p\n", (void*)story[2].choices[2].player_choice);
-
-	// NEXT STEP: build real questions and print iq score after some steps;
-	// MOVE choice-related structures to the separate file. Move all structures to the separate file. Clear unnecesarry comments.
-
-	*/
 }

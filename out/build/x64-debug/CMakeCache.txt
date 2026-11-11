@@ -208,13 +208,13 @@ CMAKE_STATIC_LINKER_FLAGS_RELWITHDEBINFO:STRING=
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
-Kariera_BINARY_DIR:STATIC=D:/proj/Kariera/out/build/x64-debug
+Kariera_BINARY_DIR:STATIC=D:/proj/Kariera/out/build/x64-debug/Kariera
 
 //Value Computed by CMake
-Kariera_IS_TOP_LEVEL:STATIC=ON
+Kariera_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
-Kariera_SOURCE_DIR:STATIC=D:/proj/Kariera
+Kariera_SOURCE_DIR:STATIC=D:/proj/Kariera/Kariera
 
 //Path to the segment heap manifest to embed into executable
 VS_SEGMENT_HEAP_MANIFEST_FILE:FILEPATH=C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/include/manifest/segmentheap.manifest

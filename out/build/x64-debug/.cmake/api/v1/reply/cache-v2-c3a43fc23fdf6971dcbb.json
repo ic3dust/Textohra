@@ -1139,7 +1139,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/proj/Kariera/out/build/x64-debug"
+			"value" : "D:/proj/Kariera/out/build/x64-debug/Kariera"
 		},
 		{
 			"name" : "Kariera_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "ON"
+			"value" : "OFF"
 		},
 		{
 			"name" : "Kariera_SOURCE_DIR",
@@ -1163,7 +1163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/proj/Kariera"
+			"value" : "D:/proj/Kariera/Kariera"
 		},
 		{
 			"name" : "VS_SEGMENT_HEAP_MANIFEST_FILE",
